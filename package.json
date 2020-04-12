@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "AnimeBot",
+  "version": "0.1.0",
+  "description": "Bot Discord basé sur les Animes. BY LC",
+  "main": "main.js",
+  "repository": "https://github.com/BLSLetlay/animebot.git",
+  "author": "LC_ Letlay",
+  "license": "MIT"
 }
